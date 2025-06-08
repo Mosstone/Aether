@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+license: MPL-2.0
+message: "If you use this software, please cite it as below."
+authors:
+- given-names: "Daniel" 
+  family-names: "Buerer"
+  orcid: "https://orcid.org/0009-0002-5084-0465"
+title: "Aether"
+version: 1.0.0
+doi: "10.1234/to-be-issued"
+date-released: 2025-06-08
+url: "https://github.com/Mosstone/Aether"
+abstract: >
+  Aether is a method of storing data and retrieving it as tensors
+  using performant methods allowing interoperable data structures
+  directly usable for machine learning, SQL, search engines, user
+  storage and retrieval and shared memory maps.
+
+  Implications include massively parallel data transfers, merging
+  of scientific data between asynchronous sets, tight integration
+  between machine learning data and classical computing, creation
+  of immutable data structures, associative indexing of distantly
+  related parameters for use in classical computing, with reduced
+  reliance on ai models for data analysis in ai enhanced systems
+
+  Aether is intended to become a core component in model training
+  data creating tensors from large data sets subject to sql rules
+  and viewable through layman accessible mechanisms

@@ -1,0 +1,19 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "author": [
+    {
+      "@id": "https://orcid.org/0009-0002-5084-0465",
+      "@type": "Person",
+      "familyName": "Buerer",
+      "givenName": "Daniel"
+    }
+  ],
+  "datePublished": "2025-06-08",
+  "description": "Aether is a method of storing data and retrieving it as tensors using performant methods allowing interoperable data structures directly usable for machine learning, SQL, search engines, user storage and retrieval and shared memory maps.\nImplications include massively parallel data transfers, merging of scientific data between asynchronous sets, tight integration between machine learning data and classical computing, creation of immutable data structures, associative indexing of distantly related parameters for use in classical computing, with reduced reliance on ai models for data analysis in ai enhanced systems\nAether is intended to become a core component in model training data creating tensors from large data sets subject to sql rules and viewable through layman accessible mechanisms",
+  "identifier": "https://doi.org/10.1234/to-be-issued",
+  "license": "https://spdx.org/licenses/MPL-2.0",
+  "name": "Aether",
+  "url": "https://github.com/Mosstone/Aether",
+  "version": "1.0.0"
+}
